@@ -34,7 +34,7 @@ Document the methodology, results, and insights gained from this project to cont
 Website Hosting:
 Develop and host a website where users can interact with the model, submit images for analysis, and access information about breast cancer detection.
 ## Contributors
-[Aaditya Gupta](@AadityaGupta700)
+[Aaditya Gupta](https://github.com/AadityaGupta700)
 
 ## Acknowledgments
 Special thanks to Kaggle for providing the breast cancer histopathological images dataset and the open-source community for their valuable contributions to the field of deep learning.
